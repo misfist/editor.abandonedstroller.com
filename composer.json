@@ -1,17 +1,4 @@
 {
-    "name": "misfist/abandonedstroller-core",
-    "description": "Core functions for platform.",
-    "homepage": "https://github.com/misfist/abandonedstroller-core",
-    "type": "wordpress-plugin",
-    "license": "GPLv3",
-    "authors": [
-        {
-            "name": "Pea",
-            "email": "pea@misfist.com",
-            "homepage": "https://misfist.com"
-        }
-    ],
-    "require": {
-        "composer/installers": "v1.0.6"
-    }
-}
+   "type": "vcs",
+   "url": "https://github.com/misfist/patricia-lutz-core-functionality"
+},
